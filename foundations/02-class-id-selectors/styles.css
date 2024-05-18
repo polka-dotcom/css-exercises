@@ -1,0 +1,19 @@
+.sim {
+    background-color: lightpink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.special {
+    font-size: 36px;
+}
+
+#big {
+    color: blue;
+    font-size: 36px;
+}
+
+#small {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
