@@ -5,6 +5,8 @@ body {
   margin: 0;
   overflow: hidden;
   font-family: Roboto, sans-serif;
+  display: flex;
+  flex-direction: column;
 }
 
 img {
@@ -45,6 +47,7 @@ a {
   justify-content: center;
   align-items: center;
   text-align: center;
+  flex: 1;
 }
 
 .header, 
@@ -68,3 +71,6 @@ a {
   padding: 0 20px;
 }
 
+.footer {
+  background-color: #eeeeee;
+}
